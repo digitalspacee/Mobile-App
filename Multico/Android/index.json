@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "https://app.multico.co/",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}

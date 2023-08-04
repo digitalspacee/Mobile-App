@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "https://shop.conutink.com/",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}

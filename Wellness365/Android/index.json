@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "https://wellness365tech.com/",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}

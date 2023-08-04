@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.wellness365.app",
+                     "sha256_cert_fingerprints": ["F6:86:88:9A:67:05:88:5A:95:48:2E:BF:09:81:44:B3:08:91:E4:2B:AB:E3:4C:6E:21:A2:3D:99:66:67:9F:E7"] }
+      }
+]

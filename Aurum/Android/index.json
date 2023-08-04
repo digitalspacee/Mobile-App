@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "https://aurumlife.sg/app",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}

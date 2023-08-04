@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aurum</string>
+    <string name="url">https://s3.amazonaws.com/appforest_uf/f1686795747773x523362555585334300/index.json</string>
+    <string name="launch">file://preload.json</string>
+</resources>

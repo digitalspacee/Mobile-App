@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Co+Nut+ink</string>
+    <string name="url">https://s3.amazonaws.com/appforest_uf/f1688092937697x153506140971788600/index.json</string>
+    <string name="launch">file://preload.json</string>
+</resources>

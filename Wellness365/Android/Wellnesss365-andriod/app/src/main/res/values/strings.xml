@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wellness365</string>
+    <string name="url">https://152f85fb2d047705291c60c3ff6e9258.cdn.bubble.io/f1688612153051x713651824133995300/index.json</string>
+    <string name="launch">file://preload.json</string>
+</resources>
